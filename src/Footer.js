@@ -5,7 +5,7 @@ export default function Footer() {
     <div>
       <small>
         <a
-          href="https://github.com/anamspe/weather-app-final"
+          href="https://github.com/anamspe/recreation-weather-app-react"
           target="_blank"
           rel="noreferrer"
         >
