@@ -1,0 +1,13 @@
+.App {
+}
+
+.App .Card {
+  border: grey 1px solid;
+  margin: 30px;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.home-icon {
+  color: grey;
+}

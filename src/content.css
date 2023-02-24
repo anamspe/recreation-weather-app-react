@@ -1,0 +1,42 @@
+.Content .current-date {
+  font-size: 18px;
+  margin-bottom: 35px;
+}
+
+.Content .main-city {
+  font-size: 23px;
+}
+
+.Content .city-pin {
+  color: red;
+}
+
+.Content .main-temp {
+  font-size: 58px;
+  font-weight: bold;
+}
+
+.Content .temp-letter {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  color: grey;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  margin-top: 25px;
+  list-style: none;
+  padding: 0;
+}
+
+.Content .min-max {
+  font-size: 10px;
+}
+
+.Content .temp-description {
+  font-weight: 600;
+}
